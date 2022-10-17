@@ -1,8 +1,8 @@
 ################## Hero Area #######################
 hero_area:
-  title : "Design Studio"
-  image : "/assets/images/banner/banner-3.png"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.<br>aliqua enim ad minim veniam quis."
+  title : "Piyush Sharma"
+  image : "/assets/images/banner/banner-4.png"
+  content : "Manage end to end tech product life cycle from requirement analysis, design, user acceptance <br> product launch. Specelizes in user journey and roadmap planning."
   button:
     enable : true
     label : "Contact Us"
