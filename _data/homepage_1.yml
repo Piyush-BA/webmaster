@@ -12,17 +12,18 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-
-- title : "Seo & Marketing"
+- title : " Focus on MVP"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "The real value of an Minimum Viable Product lies in the learning opportunities it provides. I look at MVPs with with the Go-to-Market strategy in mind."
 
-- title : "Creative Design"
+- title : "Raodmaps"
   icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "As an expert in roadmap planning, I look at roadmaps as a framework for success and a true north to keep working towards"
+
+
+- title : "User journey"
+  icon : "ti-ruler-pencil"
+  content : "In any good product, key to success is ensures an invaluable and essential view of potential and existing customers."
 
 
 ########################### Testimonial ###########################
