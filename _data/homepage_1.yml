@@ -3,10 +3,10 @@ hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Piyush Sharma"
   title : "Tech Product Manager/Owner."
-  content : "Manage end to end tech product life cycle from requirement analysis, design, user acceptance and launch. Speci"
+  content : "When UX doesn’t consider ALL users, shouldn’t it be known as “SOME User Experience” or… SUX? <Br> Manage end to end tech product life cycle from requirement analysis, design, user acceptance and launch. Speci"
   image : "/assets/images/banner/banner-img-2.png"
   button:
-    enable : true
+    enable : False
     label : "contact"
     link : "/webmaster/contact"
 
