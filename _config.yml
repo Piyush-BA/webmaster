@@ -12,7 +12,7 @@ logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
+footer_content: "Manage end to end tech product life cycle from requirement analysis, design, user acceptance product launch. Specelizes in user journey and roadmap planning.<br> Lets create something big!"
 copyright: "dizer. &copy; 2020 All Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
@@ -21,11 +21,11 @@ google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9
 ############### Call to Action ###############
 cta:
   enable: true
-  title: "dizer give the smart solution for your business"
+  title: "Always up to discuss your business problem and consulting needs."
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
-    label: "get a quote"
-    link: "contact"
+    label: "Lets discuss"
+    link: "/contact"
 
 ################## Social site ###############
 social:

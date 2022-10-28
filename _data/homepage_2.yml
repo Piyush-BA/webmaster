@@ -2,11 +2,11 @@
 hero_area:
   title : "Piyush Sharma"
   image : "/assets/images/banner/banner-4.png"
-  content : "Manage end to end tech product life cycle from requirement analysis, design, user acceptance <br> product launch. Specelizes in user journey and roadmap planning."
+  content : "Manage end to end tech product life cycle from requirement analysis, design, user acceptance <br> product launch. Specelizes in user journey and roadmap planning.<br> Lets create something big!"
   button:
     enable : true
-    label : "Contact Us"
-    link : "/contact"
+    label : "Contact me"
+    link : "/webmaster/contact"
 
 ###################### Services #####################
 services:
@@ -32,11 +32,8 @@ about:
   title : "We are Design & <br>Development Team."
   video_thumb : "/assets/images/about/about.jpg"
   video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.duis aute irure.
-  
-
-  Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
-  "
+  content : "Manage end to end tech product life cycle from requirement analysis, design, user acceptance
+product launch. Specelizes in user journey and roadmap planning."
   button:
     enable : true
     label : "Purchase now"

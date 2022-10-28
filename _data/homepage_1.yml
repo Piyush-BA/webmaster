@@ -7,8 +7,8 @@ hero_area:
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
-    label : "contact me"
-    link : "/contact"
+    label : "contact"
+    link : "/webmaster/contact"
 
 ########################### Service ##############################
 services:
@@ -23,7 +23,7 @@ services:
 
 - title : "User journey"
   icon : "ti-ruler-pencil"
-  content : "In any good product, key to success is ensures an invaluable and essential view of potential and existing customers."
+  content : "In any good product, key to success is ensures an invaluable and essential view of your potential and existing customers."
 
 
 ########################### Testimonial ###########################
